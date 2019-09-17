@@ -1,6 +1,6 @@
 {
   "name": "@imgcook/loader-html-component",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "convert full html content to div ",
   "main": "index.js",
   "scripts": {
