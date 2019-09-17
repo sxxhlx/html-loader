@@ -1,0 +1,11 @@
+{
+  "name": "@imgcook/loader-html-component",
+  "version": "1.0.0",
+  "description": "convert full html content to div ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thestral.Li",
+  "license": "ISC"
+}
